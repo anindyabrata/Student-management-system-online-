@@ -1,0 +1,12 @@
+c:\users\ratul\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+c:\users\ratul\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\StudentManagement.dll
+c:\users\ratul\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+c:\users\ratul\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+c:\users\ratul\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+c:\users\ratul\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Ratul\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+C:\Users\Ratul\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\bin\StudentManagement.dll
+C:\Users\Ratul\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+C:\Users\Ratul\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\Ratul\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+C:\Users\Ratul\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
